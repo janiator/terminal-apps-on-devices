@@ -29,7 +29,7 @@ We recommend deploying the backend to Render.com.
 2. Click the button below to deploy the backend. You'll be prompted to enter a name for the Render service group as well as your Stripe API test mode secret key.
 3. Go to the [next steps](#next-steps) in this README for how to use this app
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/stripe/example-terminal-backend/)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=[https://github.com/stripe/example-terminal-backend/](https://github.com/janiator/example-terminal-backend))
 
 ### Point the example app to your backend
 
